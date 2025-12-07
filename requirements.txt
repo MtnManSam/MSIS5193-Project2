@@ -1,0 +1,4 @@
+langchain-ollama
+python-docx
+pdfplumber
+beautifulsoup4
